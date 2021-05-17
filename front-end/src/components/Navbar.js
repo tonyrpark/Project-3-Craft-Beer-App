@@ -31,22 +31,22 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                About Me
+                Latest News
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Portfolio
+                Watchlist
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Services
+                Investing
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Contact
+                Crypto Wallet
               </a>
             </li>
           </ul>

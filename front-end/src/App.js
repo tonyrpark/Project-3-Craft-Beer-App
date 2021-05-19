@@ -1,7 +1,7 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Particles from "react-particles-js";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import Header from "./components/Header";
 
 function App() {
@@ -19,9 +19,9 @@ function App() {
               },
             },
             shape: {
-              type: "circle",
+              type: "square",
               stroke: {
-                width: 6,
+                width: 10,
                 color: "#f9ab00",
               },
             },

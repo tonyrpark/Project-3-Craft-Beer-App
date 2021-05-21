@@ -1,6 +1,6 @@
 Table of Contents
 
-##About the Project
+## About the Project
 
 Dysnfunctional-but-still-functional-muddatruckaz set out on a mission to create the ultimate cryptocurrency tracking application. 
 

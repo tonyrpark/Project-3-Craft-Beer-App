@@ -1,3 +1,10 @@
+Table of Contents
+
+##About the Project
+
+Dysnfunctional-but-still-functional-muddatruckaz set out on a mission to create the ultimate cryptocurrency tracking application. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -36,23 +36,17 @@ Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 
 ## Coding-Requirements-Hit
 
-[x] Must use Node.js and Express.js to create a RESTFUL API <br>
-[x] Must use Handlebars.js as the template engine <br>
-[x] Must use MySQL and the Sequelize ORM for the database <br>
+[x] Must use ReactJS in some way (even if minimal) <br>
+[x] Must use a Node and Express Web Server <br>
+[x] Must be backed by a MySQL or MongoDB Database with a Sequelize or Mongoose ORM <br>
 [x] Must have both GET and POST routes for retrieving and adding new data <br>
-[x] Must use at least one new library, package, or technology that we haven't discussed --- Restaurant API, JawsDB, bulma package for style, nodemon for server refreshes <br>
-[x] Must have a folder structure that meets the MVC paradigm <br>
-[x] Must include authentication (express-session and cookies) <br>
-[x] Must protect API keys and sensitive information with environment variables (bcrypt, jawsDB) <br>
-
-## Additional-Requirements
-
-[x] Must be deployed using Heroku (with data) <br>
-[x] Must have a polished UI <br>
-[x] Must be responsive (check out our website on your mobile phone!) <br>
-[x] Must be interactive <br>
-[x] Must meet good-quality coding standards <br>
-[x] Must have a professional README
+[x] Must be deployed using Heroku (with Data) <br>
+[x] Must utilize at least two libraries, packages, or technologies that we haven't discussed <br>
+[x] Must allow for or involve the authentication of users in some way <br>
+[x] Must have a polished frontend/UI <br>
+[x] Must have folder structure that meets MVC Paradigm <br>
+[x] Must meet good quality coding standards (indentation, scoping, naming) <br>
+[x] Must not expose sensitive API key information on the server <br>
 
 ## Technologies-Used
 
@@ -65,12 +59,10 @@ Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 - HTML
 - CSS
 - OBS
-- Restaurant API
-- Bulma Package
+- CoinGecko API
 - Bootstrap
 - Adobe Photoshop
-- mySQL Workbench
-- mysql2
+- MongoDB Atlas
 - axios
 - express-handlebars
 - express-session
@@ -79,5 +71,9 @@ Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 - unirest
 - Postman
 - ShareX
+- Fortawesome/Fontawesome
+- react-particles-js
+- react-dom
+- react-router-dom
 
-© Ludicrous Landslide Group 2021
+© Dysfunctional But Still Functional Muddatruckaz 2021

@@ -10,7 +10,7 @@ export default function CoinContainer(props) {
 
   const addToWallet = (currency) => {
     axios
-      .post("http://localhost:8000/api/wallet/create", {
+      .post("https://project-3-dwmc.herokuapp.com/api/wallet/create", {
         userId: window.localStorage.getItem("userId"),
         currency: currency.toUpperCase(),
         isLoggedIn: isLoggedIn,

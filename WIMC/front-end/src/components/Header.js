@@ -27,29 +27,50 @@ const Header = () => {
         }}
       />
       <div className="main-info">
-        <h1>UCSD Fullstack - Tony Park React Portfolio</h1>
+        <h1>SIGN UP AND ADD YOUR WALLET TODAY</h1>
         <Typed
           className="typed-text"
           strings={[
-            "Web Design",
-            "Web Development",
-            "SEO",
-            "Marketing",
-            "Creative Content Writing",
-            "MERN",
-            "Node.js",
-            "Bootstrap",
-            "Handlebars.js",
-            "MongoDB",
-            "NoSQL",
-            "Cybersecurity",
+            "Bitcoin",
+            "Ethereum",
+            "Tether",
+            "Binance Coin",
+            "Cardano",
+            "Dogecoin",
+            "XRP",
+            "USD Coin",
+            "Polkadot",
+            "Internet Computer",
+            "Uniswap",
+            "Bitcoin Cash",
+            "Litecoin",
+            "Chainlink",
+            "Polygon",
+            "Stellar",
+            "Ethereum Classic",
+            "Binance USD",
+            "Solana",
+            "VeChain",
+            "Wrapped Bitcoin",
+            "THETA",
+            "TRON",
+            "EOS",
+            "Filecoin",
+            "Aave",
+            "Dai",
+            "Monero",
+            "Neo",
+            "Maker",
+            "SHIBA INU",
+            "Klaytn",
+            "Bitcoin SV",
           ]}
           typeSpeed={40}
           backSpeed={60}
           loop
         />
-        <a href="#" className="btn-main-offer">
-          About Me
+        <a href="/signup" className="btn-main-offer">
+          Register Here
         </a>
       </div>
     </div>

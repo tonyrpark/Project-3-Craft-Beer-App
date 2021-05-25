@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
 :root {
   --primary-white: #fff;
@@ -48,119 +48,116 @@ nav ul li {
   padding: 0 !important;
   height: 12.5rem !important;
 }
-.coin-container{
+.coin-container {
   margin: 30px 0px;
 }
-.coin-container{
+.coin-container {
   width: 100%;
   background-color: #212529;
-  border:1px solid #f9ab00;
+  border: 1px solid #f9ab00;
   border-top: 5px solid #f9ab00;
   border-bottom: 5px solid #f9ab00;
 }
-.coin-container tr{
+.coin-container tr {
   text-align: center;
 }
-.coin-container th{
-  font-family:'Montserrat', sans-serif;
+.coin-container th {
+  font-family: "Montserrat", sans-serif;
   padding: 20px 5px;
   color: rgb(253, 155, 8);
   text-transform: uppercase;
-  border-bottom:1px solid #f9ab00;
-
+  border-bottom: 1px solid #f9ab00;
 }
-.coin-container td{
-  font-family:"Roboto Condensed", sans-serif;
-  padding:10px 20px;
+.coin-container td {
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 10px 20px;
   color: #f9ab00;
   text-transform: uppercase;
 }
-.coin-container td img{
-  width:40px;
-  height:40px;
+.coin-container td img {
+  width: 40px;
+  height: 40px;
 }
-.flag-down{
+.flag-down {
   color: #f33501 !important;
 }
-.flag-up{
+.flag-up {
   color: greenyellow !important;
 }
-.main-heading{
-  margin:20px auto !important;
-  font-family:"Roboto Condensed", sans-serif;
+.main-heading {
+  margin: 20px auto !important;
+  font-family: "Roboto Condensed", sans-serif;
   color: #f9ab00;
   font-weight: 600;
 }
-.formgroup{
+.formgroup {
   margin: 30px 5px;
   font-family: "Roboto Condensed", sans-serif;
 }
-.formgroup label{
+.formgroup label {
   font-family: "Roboto Condensed", sans-serif;
   color: #f5b733;
   display: block;
   font-size: 20px;
 }
-.formgroup input{
+.formgroup input {
   background-color: #212529;
   border: 0px;
   font-size: 20px;
   margin-top: 10px;
-  padding:7px 5px;
+  padding: 7px 5px;
   border: 1px solid #f9ab00;
   color: #f9ab00;
   transition: outline 0.1s ease-in-out;
-  width:300px;
+  width: 300px;
 }
-.formgroup input:focus{
+.formgroup input:focus {
   outline: 4px solid #f9ab00;
 }
-.btnprimary{
-  padding:7px 15px;
+.btnprimary {
+  padding: 7px 15px;
   background: #f9ab00;
   border: 0px;
   margin-top: 10px;
   transition: background 0.3s ease-in-out;
-  color:#4a1c40;
+  color: #4a1c40;
   font-weight: 600;
 }
-.btnprimary:hover{
+.btnprimary:hover {
   background: #bb8002;
 }
-.primary-text{
+.primary-text {
   font-size: 20px;
   color: #bb8002;
   margin-top: 20px;
   font-family: "Roboto Condensed", sans-serif;
-  
 }
-.primary-text a{
+.primary-text a {
   margin-left: 5px;
   font-style: italic;
   color: #f9ab00;
   font-family: Arial, Helvetica, sans-serif;
   transition: all 0.2s ease-in-out;
-  
 }
-.primary-text a:hover{
+.primary-text a:hover {
   color: #bb8002;
 }
-.btn-action{
+.btn-action {
   background-color: #f9ab00;
-  border:0px;
-  font-family:"Roboto Condensed", sans-serif;
-  color:#212529;
+  border: 0px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #212529;
   border-radius: 20px;
-  padding:5px 7px;
-  border:1px solid transparent;
+  padding: 5px 7px;
+  border: 1px solid transparent;
   transition: all 0.3s ease-in-out;
 }
-.btn-action:hover{
-  border:1px solid #f9ab00;
+.btn-action:hover {
+  border: 1px solid #f9ab00;
   color: #f9ab00;
   background-color: #212529;
 }
-.btnDanger{
+.btnDanger {
   background-color: #ef4035;
   border: 1px solid transparent;
   padding: 7px 10px;
@@ -170,9 +167,9 @@ nav ul li {
   transition: all 0.3s ease-in-out;
   margin-top: 2px;
 }
-.btnDanger:hover{
+.btnDanger:hover {
   background-color: #212529;
-  border:1px solid #ef4035;
+  border: 1px solid #ef4035;
 }
 @media (max-width: 768px) {
   .navbar-brand {
@@ -238,12 +235,12 @@ nav ul li {
 
 /*********************** HEADER MAIN OFFER BUTTON ***********************/
 .btn-main-offer {
-  border: 1px solid var(--primary-red);
   text-transform: uppercase;
-  border-radius: 0;
-  padding: 0.625rem 0.75rem 0.75rem 0.75rem;
-  color: var(--primary-white);
+  border-radius: 150px;
+  padding: 1.25rem;
+  color: white;
   margin: 2rem;
+  background-color: #ef4035;
 }
 
 .btn-main-offer:hover {

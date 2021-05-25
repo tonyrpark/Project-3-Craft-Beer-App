@@ -21,7 +21,7 @@ export default function SignUp() {
     const { firstName, lastName, email, password, conPassword } = state;
     if (password == conPassword) {
       axios
-        .post("http://localhost:8000/api/user/signup", {
+        .post("https://project-3-dwmc.herokuapp.com/api/user/signup", {
           firstName,
           lastName,
           email,

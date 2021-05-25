@@ -9,7 +9,10 @@ export default function Login(props) {
   const handleLogin = () => {
     const { email, password } = user;
     axios
-      .post("http://localhost:8000/api/user/login", { email, password })
+      .post("https://project-3-dwmc.herokuapp.com/api/user/login", {
+        email,
+        password,
+      })
       .then((result) => {
         alert(`Hi ${result.data.user.firstName}! Welcome to the application`);
         window.localStorage.setItem("userId", result.data.user._id);

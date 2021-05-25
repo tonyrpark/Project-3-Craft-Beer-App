@@ -9,7 +9,7 @@ export default function WalletContainer(props) {
 
   useEffect(() => {
     axios
-      .post("http://localhost:8000/api/wallet/get", {
+      .post("https://project-3-dwmc.herokuapp.com/api/wallet/get", {
         userId: window.localStorage.getItem("userId"),
       })
       .then((response) => {

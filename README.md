@@ -18,19 +18,19 @@ Project name and Summary: Dude, Where's My Crypto, a Crypto app for Everyone
 
 2. Screenshot of App 1
    <br>
-   ![Screenshot 1](./public/images/screenshot1.jpg)
+   ![Screenshot 1](./WIMC/front-end/public/images/screenshot1.jpg)
 
 3. Screenshot of App 2
    <br>
-   ![Screenshot 2](./public/images/screenshot2.jpg)
+   ![Screenshot 2](./WIMC/front-end/public/images/screenshot2.jpg)
 
 4. Screenshot of App 3
    <br>
-   ![Screenshot 3](./public/images/screenshot3.jpg)
+   ![Screenshot 3](./WIMC/front-end/public/images/.jpg)
 
 5. Screenshot of App 4
    <br>
-   ![Screenshot 3](./public/images/screenshot4.jpg)
+   ![Screenshot 4](./WIMC/front-end/public/images/.jpg)
 
 ## Coding-Requirements-Hit
 

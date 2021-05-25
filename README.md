@@ -14,7 +14,7 @@ Project name and Summary: Dude, Where's My Crypto, a Crypto app for Everyone
 # Screenshots:
 
 1. GIF of App 1
-   ![GIF of App 1](./public/images/app1.gif)
+   ![GIF of App 1](./WIMC/front-end/public/images/app1.gif)
 
 2. Screenshot of App 1
    <br>

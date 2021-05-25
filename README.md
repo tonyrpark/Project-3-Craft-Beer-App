@@ -1,8 +1,8 @@
 # PROJECT #3 UCSD FULLSTACK COURSE 2021
 
-Project Members: Tony, Mike, Robert, Dustin
-Project Team Name: Dysfunctional But Still Functional Muddatruckaz
-Project name and Summary: Dude, Where's My Crypto, a Crypto app for Everyone
+Project Members: Tony, Mike, Robert, Dustin <br>
+Project Team Name: Dysfunctional But Still Functional Muddatruckaz <br>
+Project name and Summary: Dude, Where's My Crypto, a Crypto app for Everyone <br>
 
 Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 

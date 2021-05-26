@@ -19,7 +19,7 @@ signUp = (req,res,err)=>{
        if(err){
            res.status(500).send({message:err})
        }
-        res.status(200).send({message:`user inserted successfully!`})
+        res.status(200).send({message:`User added successfully!`})
     })
 }
 
@@ -38,7 +38,7 @@ signIn=(req,res,next)=>{
         if(!passwordIsValid){
             return res.status(404).send({
                 accessToken:null,
-                message:"Inavlid password"})
+                message:"Password Error"})
         }
         token = jwt.sign({id:user.id},config.secret,{expiresIn:86400})
         req.session.user_id=user.id;

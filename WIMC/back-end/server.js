@@ -7,6 +7,7 @@ const app = express();
 const expSession = require("express-session");
 const path = require("path");
 const { signupHelpers } = require("./app/middlewares");
+
 // mongodb connection
 db.mongoose
   .connect(`mongodb://${dbConfig.HOST}:${dbConfig.PORT}/${dbConfig.DB}`, {
@@ -14,7 +15,7 @@ db.mongoose
     useUnifiedTopology: true,
   })
   .then(() => {
-    console.log(`successfuly connected to ${dbConfig.DB}`);
+    console.log(`Successfuly logged into ${dbConfig.DB}`);
   })
   .catch((err) => {
     console.log(`Connection error : ${err}`);

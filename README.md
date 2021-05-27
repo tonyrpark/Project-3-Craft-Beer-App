@@ -53,7 +53,7 @@ Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 - Express
 - Sequelize
 - JawsDB
-- bcrypt
+- Bcrypt
 - Heroku
 - Javascript
 - HTML
@@ -63,17 +63,17 @@ Heroku Link to Site: https://project-3-dwmc-frontend.herokuapp.com/
 - Bootstrap
 - Adobe Photoshop
 - MongoDB Atlas
-- axios
-- express-handlebars
-- express-session
-- nodemon
-- favicon
-- unirest
+- Axios
+- Express-handlebars
+- Express-session
+- Nodemon
+- Favicon
+- Unirest
 - Postman
 - ShareX
 - Fortawesome/Fontawesome
-- react-particles-js
-- react-dom
-- react-router-dom
+- React-particles-js
+- React-dom
+- React-router-dom
 
 © Dysfunctional But Still Functional Muddatruckaz 2021
